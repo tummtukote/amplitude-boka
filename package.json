@@ -1,0 +1,23 @@
+{
+  "name": "blue-playlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tummtukote/amplitude-boka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tummtukote/amplitude-boka/issues"
+  },
+  "homepage": "https://github.com/tummtukote/amplitude-boka#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
